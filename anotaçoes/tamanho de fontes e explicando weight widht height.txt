@@ -1,0 +1,12 @@
+Medidas Absolutas
+            cm, mm, in(polegadas), px, pt, pc 
+
+            Medidas Relativas
+            em, ex, rem, vw, %
+            16px geralmente é = 1em (PADRAO DAS FONTES)
+            USAR EM MAIORIA DAS VEZES PX OU EM
+
+/* tamanho de fontes: lighter - normal - bold - bolder */
+/* tamanho de fontes: 100 - 900, 400 normal */
+/* weight:peso widht:largura height:altura */
+padding: preenchimento

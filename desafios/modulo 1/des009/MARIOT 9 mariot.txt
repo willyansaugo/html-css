@@ -1,0 +1,91 @@
+MARIOT
+9 mariot
+
+Pergunta 1                                   1 pts
+Como podemos definir a gestão de projetos?
+
+ 
+
+Grupo de opções de resposta
+
+(X) Uma abordagem disciplinada para alcançar objetivos específicos dentro de um prazo e orçamento definidos.
+
+-------------------------------------------------------------
+Pergunta 2
+
+Qual é o principal objetivo da fase de planejamento em um projeto?
+
+Grupo de opções de resposta
+
+(x)Definir os objetivos do projeto.
+
+*-*-*-*-*-*-*--*-*-*-*-*--***-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+3- Escopo do Projeto:
+Versão 9:
+Objetivo: Criar um sistema de venda online de produtos naturais que atenda a regras de negócio específicas e proporciona uma experiência conveniente aos clientes.
+
+Funcionalidades Principais: Cadastro de Clientes, Segurança de Dados, Catálogo de Produtos, Gerenciamento de Estoque em Tempo Real, Preços e Promoções, Facilitação do Processo de Compra, Política de Devolução e Reembolso, Suporte ao Cliente, Opções de Entrega, Avaliações e Comentários, Política de Privacidade, Gerenciamento de Conteúdo, Relatórios e Análises, Integrações, Personalização Geográfica e de Moeda.
+
+Entregáveis: Sistema operacional, documentação detalhada.
+
+Restrições: Prazo, orçamento, segurança de dados.
+
+Partes Interessadas: Equipe de Desenvolvimento, Equipe de Conteúdo, Equipe de Suporte, Clientes, Parceiros Externos.
+
+Riscos Iniciais: Segurança de dados, conformidade com regras.
+
+Riscos Iniciais: Segurança de dados, conformidade com regras.
+
+--------
+3- Identifique os Requisitos do Cliente (Backlog do Produto):
+Versão 9:
+Desenvolvimento do Backlog do Produto (Identificação de Requisitos do Cliente):
+
+Para atender aos objetivos do projeto e às regras de negócio, a equipe deve desenvolver um backlog do produto. Esse backlog será composto por todas as funcionalidades, tarefas e requisitos necessários para o sucesso do sistema de venda online de produtos naturais, servindo como guia essencial para o planejamento e desenvolvimento do projeto.
+
+********
+3-Priorize o Backlog do Produto:
+Versão 9:
+Priorização do Backlog do Produto
+
+Para desenvolver de forma eficaz o sistema de venda online de produtos naturais, é essencial realizar a priorização das funcionalidades e requisitos listados no backlog do produto.
+
+******
+3- Estabeleça as Cerimônias Scrum:
+Versão 9:
+Estabeleça as Cerimônias Scrum
+
+Para gerenciar eficazmente o desenvolvimento do sistema de venda online de produtos naturais, é fundamental estabelecer as cerimônias Scrum como parte do processo ágil. Essas cerimônias incluem:
+
+Reunião de Planejamento da Sprint: Realizada no início de cada sprint, esta reunião envolve a equipe de desenvolvimento e o Product Owner. Seu objetivo é selecionar itens do backlog do produto para a sprint atual e criar um plano detalhado de entrega.
+
+Daily Scrum (Stand-up): Realizada diariamente, esta reunião breve permite que a equipe compartilhe atualizações sobre o progresso, identifique desafios e planeje as próximas tarefas. O foco é manter todos alinhados e remover obstáculos.
+
+Revisão da Sprint: Ao final de cada sprint, a equipe realiza uma revisão para demonstrar o trabalho concluído ao Product Owner e outros stakeholders. Isso permite que todos vejam o que foi realizado e forneçam feedback valioso.
+
+Retrospectiva da Sprint: Após a revisão da sprint, a equipe realiza uma retrospectiva para avaliar o que funcionou bem, identificar áreas de melhoria e definir ações para aumentar a eficiência na próxima sprint.
+
+A implementação dessas cerimônias Scrum garantirá que o desenvolvimento do projeto esteja alinhado com as necessidades do cliente, seguindo uma abordagem iterativa e promovendo a colaboração entre os membros da equipe. Essas cerimônias são essenciais para manter o projeto no caminho certo e permitir adaptações contínuas com base no feedback e nas mudanças nas necessidades do cliente.
+
+*******
+
+Versão 9:
+
+Cadastro de Clientes: Os clientes fornecerão informações essenciais, incluindo nome, endereço de e-mail, endereço de entrega e número de telefone. Os dados do cliente serão armazenados com segurança.
+
+Segurança de Dados: Todas as informações do cliente serão protegidas por rigorosas medidas de segurança, incluindo criptografia, para garantir acesso autorizado.
+
+Catálogo de Produtos: Utilizando um sistema de gerenciamento de conteúdo, o sistema manterá um catálogo completo de produtos, armazenando informações detalhadas em um banco de dados central.
+
+Estoque em Tempo Real: O sistema se integrará a um sistema de gerenciamento de estoque para manter um controle preciso do estoque em tempo real.
+
+Preços e Promoções: O sistema incorporará um sistema de gerenciamento de preços para definir e aplicar preços e promoções automaticamente, garantindo consistência.
+
+Processo de Compra: Os clientes poderão adicionar produtos a um carrinho de compras e concluir o processo de compra de forma intuitiva, incluindo etapas para informações de pagamento e endereço de entrega.
+
+Política de Devolução e Reembolso: A política de devolução e reembolso estará disponível no site para consulta antes da compra.
+
+Suporte ao Cliente: O sistema incluirá canais de suporte ao cliente, como formulário de contato e chat ao vivo, para responder a perguntas e resolver problemas de maneira eficaz.
+
+Entrega e Frete: O sistema se integrará a várias transportadoras para oferecer opções de entrega diversificadas. Os custos de frete serão calculados com base no endereço de entrega do cliente.

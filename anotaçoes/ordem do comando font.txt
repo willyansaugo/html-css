@@ -1,0 +1,7 @@
+1-font-style: italic;
+            2-font-weight: bolder;
+            3-font-size: 3em;
+            4-font-family: 'Work Sans', sans-serif;
+
+             shorthand font
+            - font-style -> font-weight -> font-size -> font-family */

@@ -1,0 +1,10 @@
+em HTML é id = em CSS é #
+    ID serve para apenas 1 elemento(so para 1 h1 ou 1 h2 ou 1 p).
+    em HTML é class = em CSS é .
+    CLASS serve para varios elementos.
+
+            # = id
+            . = class
+            : = pseudo-class
+            :: = pseudo-element
+            > = clildren

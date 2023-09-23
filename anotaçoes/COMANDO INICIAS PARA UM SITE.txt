@@ -1,0 +1,24 @@
+COMANDO INICIAS PARA UM SITE
+
+HTML
+
+body 
+	header
+	nav
+
+	main
+		article
+		aside		
+footer
+
+CSS
+
+@charset "UTF-8";
+
+:root {
+	CONFIGURAÇÃO PADRAO.
+}
+
+* {	SERVE PARA ATRIBUIR COMANDO EM TUDO.
+
+}

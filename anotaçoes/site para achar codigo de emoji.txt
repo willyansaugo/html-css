@@ -1,0 +1,2 @@
+emojipedia.org
+colocar sempre &#x e copiar sempre afrente do U+

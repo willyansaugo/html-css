@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+div {
+    display: inline-block;
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    width: 200px; /* LARGURA */
+    height: 200px; /* ALTURA */
+}
+
+div#d1 {
+    color: blue;
+}
+
+div#d2 {
+    color: magenta;
+}
+
+div#d3 {
+    color: maroon;
+}
+
+div:hover {
+    background-color: yellow;
+}
