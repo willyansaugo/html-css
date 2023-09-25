@@ -56,12 +56,12 @@
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    max-width: 400px;
+    max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.151);
-    margin-bottom: 20px;
+    padding-bottom: 30px;
   }
 
   nav {
