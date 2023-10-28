@@ -27,6 +27,15 @@
     text-align: center;
   }
 
+  header > h2 {
+    padding-top: 50px;
+    font-variant: small-caps;
+    font-family: var(--font-head);
+    font-size: 7vw;
+    text-shadow: 1px 1px 1px black;
+    padding-bottom: 50px;
+  }
+
   header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
